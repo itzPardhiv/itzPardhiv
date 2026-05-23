@@ -3,13 +3,18 @@
   <img src="https://komarev.com/ghpvc/?username=itzPardhiv&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Premium Header -->
+<h1 align="center">A.J. Pardhiv</h1>
+
+<h3 align="center">
+  AI & Data Science Student · Machine Learning Intern · Google Certified Data Analyst
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:2563EB&height=220&section=header&text=A.J.%20Pardhiv&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20Intern%20%7C%20Google%20Certified%20Data%20Analyst&descAlignY=58&descSize=15" alt="Header" />
+  <b>Python · SQL · Machine Learning · Data Analytics · Business Intelligence · Full-Stack Development</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+AI%2C+ML+and+Data-Driven+Products;Turning+Data+into+Insights%2C+Dashboards+and+Impact;Python+%7C+SQL+%7C+Machine+Learning+%7C+Business+Intelligence;Focused+on+Real-World+Problem+Solving+and+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI%2C+ML+and+Data-Driven+Products;Turning+Data+into+Insights%2C+Dashboards+and+Impact;Focused+on+Real-World+Problem+Solving+and+Execution;Creating+Recruiter-Ready+AI+and+Data+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,6 +51,10 @@ I am a **Google Certified Data Analyst** with hands-on experience in **Python, S
   <tr>
     <td><b>Education</b></td>
     <td>B.Tech in Artificial Intelligence & Data Science</td>
+  </tr>
+  <tr>
+    <td><b>GitHub Journey</b></td>
+    <td>Started building actively in 2026 and growing through real-world projects</td>
   </tr>
   <tr>
     <td><b>Core Domain</b></td>
@@ -203,6 +212,14 @@ I am a **Google Certified Data Analyst** with hands-on experience in **Python, S
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzPardhiv&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itzPardhiv&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <i>GitHub activity updates automatically as I publish projects, commit code, and contribute to repositories.</i>
+</p>
+
 ---
 
 ## Recognition Board
@@ -235,8 +252,4 @@ I am a **Google Certified Data Analyst** with hands-on experience in **Python, S
 
 <p align="center">
   <i>Open to internships, collaborations, open-source contributions, and real-world AI/Data projects.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:020617&height=120&section=footer" alt="Footer" />
 </p>
