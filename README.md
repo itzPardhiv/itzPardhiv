@@ -1,10 +1,8 @@
-## Hi there 👋
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itzPardhiv&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Animated Header -->
 <h1 align="center">
   Hi, I'm A.J. Pardhiv 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
@@ -149,6 +147,9 @@ I enjoy transforming ideas into real-world projects that are technically strong,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzPardhiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzPardhiv&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
@@ -194,17 +195,43 @@ class AJPardhiv:
 
     def mindset(self):
         return "Learn deeply. Build practically. Improve continuously."
-<!--
-**itzPardhiv/itzPardhiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I’m Interested In Building
+
+- AI-powered analytics platforms  
+- Machine Learning prediction systems  
+- Resume screening and ranking systems  
+- Intelligent automation tools  
+- Interactive business dashboards  
+- Full-stack web applications  
+- Data-driven decision support systems  
+- Clean, scalable, and user-focused digital products  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to learning, collaboration, internships, open-source contributions, and building impactful projects in **AI, ML, Data Analytics, Full-Stack Development, and Product Engineering**.
+
+<p align="center">
+  <a href="https://github.com/itzPardhiv">
+    <img src="https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333/">
+    <img src="https://img.shields.io/badge/LinkedIn-A.J.%20Pardhiv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Building intelligent, useful, and scalable technology — one project at a time.”</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
