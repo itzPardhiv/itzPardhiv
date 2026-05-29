@@ -6,7 +6,7 @@ GitHub: itzPardhiv
 
 <div align="center">
 
-# Hi, I'm A.J. Pardhiv 👋
+# Hi, I'm A.J. Pardhiv 
 
 ### AI & Data Science Student · Google Data Analytics Certified · ML & Data Analytics Builder
 
