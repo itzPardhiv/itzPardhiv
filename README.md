@@ -184,16 +184,9 @@ I am currently improving my skills in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=itzPardhiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" 
-  alt="A.J. Pardhiv GitHub Stats" 
-/>
-
-<br/><br/>
 
 <img 
   src="https://github-readme-streak-stats.herokuapp.com?user=itzPardhiv&theme=tokyonight&hide_border=true" 
@@ -203,24 +196,46 @@ I am currently improving my skills in:
 <br/><br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzPardhiv&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="A.J. Pardhiv Top Languages" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzPardhiv&theme=github_dark" 
+  alt="A.J. Pardhiv GitHub Profile Summary" 
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzPardhiv&theme=github_dark" 
+  alt="A.J. Pardhiv Repos Per Language" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzPardhiv&theme=github_dark" 
+  alt="A.J. Pardhiv Most Commit Language" 
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzPardhiv&theme=github_dark" 
+  alt="A.J. Pardhiv GitHub Stats" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzPardhiv&theme=github_dark&utcOffset=5.5" 
+  alt="A.J. Pardhiv Productive Time" 
 />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
-<div align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=itzPardhiv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" 
-  alt="A.J. Pardhiv GitHub Trophies" 
-/>
-
-</div>
+- Google Data Analytics Certified
+- Machine Learning Intern at Future Interns
+- Building AI, ML, and data analytics projects
+- Creating recruiter-ready Streamlit and ML applications
+- Focused on clean documentation, dashboards, and real-world project use cases
+- Building StudyStack, a student-focused study community
 
 ---
 
