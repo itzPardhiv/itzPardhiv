@@ -1,20 +1,29 @@
-:::writing{variant="document" id="63742"}
 <!--
 GitHub Profile README
 Author: A.J. Pardhiv
 GitHub: itzPardhiv
+Email: itzpardhiv@gmail.com
 -->
 
 <div align="center">
 
 # Hi, I'm A.J. Pardhiv
 
-### AI & Data Science Student | Machine Learning & Data Analytics Builder
+### AI & Data Science Student | Machine Learning & Data Analytics Builder | Open Source Contributor
 
-I build practical machine learning, data analytics, and Streamlit-based applications using  
-**Python, SQL, scikit-learn, Pandas, Plotly, Streamlit, and Business Intelligence tools.**
+I build practical **Machine Learning**, **Data Analytics**, and **AI-powered applications** using  
+**Python, SQL, Streamlit, scikit-learn, Pandas, Plotly, and Business Intelligence tools.**
 
-**Turning data into useful, understandable, and business-ready solutions.**
+Turning real-world data into clean, useful, and business-ready solutions.
+
+<br/>
+
+<a href="mailto:itzpardhiv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-itzpardhiv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/itzPardhiv">
+  <img src="https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -24,17 +33,18 @@ I build practical machine learning, data analytics, and Streamlit-based applicat
 
 I am an **Artificial Intelligence and Data Science student** focused on building practical, well-documented, and recruiter-ready technology projects.
 
+I enjoy working on projects that combine **machine learning, analytics, clean UI, documentation, and real-world business use cases**. My goal is to build tools that are not only technically correct, but also understandable, useful, and easy to present.
+
 My work mainly focuses on:
 
-- Machine learning applications
+- Machine Learning applications
 - Data analytics and visualization
-- Business intelligence dashboards
+- Business Intelligence dashboards
 - Streamlit-based ML/Data apps
 - Resume screening and candidate ranking systems
 - Support ticket classification and workflow automation
 - Sales forecasting and decision-support dashboards
-
-I enjoy converting raw datasets and real-world problems into clean, useful, and understandable products.
+- Open-source contribution and clean project documentation
 
 ---
 
@@ -58,6 +68,7 @@ I enjoy converting raw datasets and real-world problems into clean, useful, and 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" />
 </p>
 
 ### Visualization & Business Intelligence
@@ -81,9 +92,12 @@ I enjoy converting raw datasets and real-world problems into clean, useful, and 
 
 ## Featured Projects
 
-### 1. SmartHire AI — Resume Screening & Candidate Ranking System
+### SmartHire AI — Resume Screening & Candidate Ranking System
 
 A resume screening system that compares resumes with job descriptions, extracts skills, ranks candidates, and identifies skill gaps.
+
+**What it solves:**  
+Recruiters often spend too much time manually screening resumes. SmartHire AI helps automate the first-pass screening process with explainable ranking and skill-gap analysis.
 
 **Core Features**
 
@@ -98,9 +112,12 @@ A resume screening system that compares resumes with job descriptions, extracts 
 
 ---
 
-### 2. AI Ticket Desk — Support Ticket Classification Platform
+### AI Ticket Desk — Support Ticket Classification Platform
 
 A machine learning application for classifying support tickets, predicting priority, recommending support teams, and generating response drafts.
+
+**What it solves:**  
+Support teams deal with large volumes of unstructured tickets. This project helps improve ticket routing, priority handling, and workflow efficiency.
 
 **Core Features**
 
@@ -115,9 +132,12 @@ A machine learning application for classifying support tickets, predicting prior
 
 ---
 
-### 3. AI Retail Forecasting Platform
+### AI Retail Forecasting Platform
 
 A sales and demand forecasting project designed to analyze sales trends, forecast future demand, and support better inventory and planning decisions.
+
+**What it solves:**  
+Businesses need better visibility into demand patterns. This project uses data analysis and forecasting to support planning decisions.
 
 **Core Features**
 
@@ -132,7 +152,7 @@ A sales and demand forecasting project designed to analyze sales trends, forecas
 
 ---
 
-### 4. Business Intelligence Dashboards
+### Business Intelligence Dashboards
 
 Dashboard-focused projects for KPI tracking, data visualization, and decision support.
 
@@ -150,7 +170,7 @@ Dashboard-focused projects for KPI tracking, data visualization, and decision su
 
 ## Current Focus
 
-I am currently improving my skills in:
+I am currently focused on:
 
 - Open-source contribution
 - Machine learning project development
@@ -170,6 +190,18 @@ I am currently improving my skills in:
 
 ---
 
+## Highlights
+
+- Google Data Analytics Certified
+- Machine Learning Intern at Future Interns
+- SSOC Season 5 Contributor
+- Building ML and data analytics projects
+- Creating recruiter-ready Streamlit applications
+- Focused on clean documentation, dashboards, and real-world use cases
+- Exploring open-source contribution and collaborative development
+
+---
+
 ## What I Bring
 
 - Strong foundation in Python, SQL, data analytics, and machine learning
@@ -177,18 +209,7 @@ I am currently improving my skills in:
 - Experience building end-to-end ML and data projects
 - Focus on clean UI, readable code, and strong documentation
 - Interest in building practical AI/Data products
-- Continuous learning through certifications, internships, and projects
-
----
-
-## Highlights
-
-- Google Data Analytics Certified
-- Machine Learning Intern at Future Interns
-- Building ML and data analytics projects
-- Creating recruiter-ready Streamlit applications
-- Focused on clean documentation, dashboards, and real-world use cases
-- Exploring open-source contribution and collaborative development
+- Continuous learning through certifications, internships, and open-source programs
 
 ---
 
@@ -197,6 +218,9 @@ I am currently improving my skills in:
 Open to internships, collaborations, open-source contributions, and real-world AI/Data projects.
 
 <p align="left">
+  <a href="mailto:itzpardhiv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itzpardhiv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/itzPardhiv">
     <img src="https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -211,4 +235,3 @@ Open to internships, collaborations, open-source contributions, and real-world A
 **Curiosity. Code. Intelligence.**
 
 </div>
-:::
