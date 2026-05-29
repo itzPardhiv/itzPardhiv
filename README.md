@@ -1,4 +1,4 @@
-```md
+:::writing{variant="document" id="63742"}
 <!--
 GitHub Profile README
 Author: A.J. Pardhiv
@@ -211,4 +211,4 @@ Open to internships, collaborations, open-source contributions, and real-world A
 **Curiosity. Code. Intelligence.**
 
 </div>
-```
+:::
