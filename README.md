@@ -1,3 +1,4 @@
+```md
 <!--
 GitHub Profile README
 Author: A.J. Pardhiv
@@ -6,38 +7,38 @@ GitHub: itzPardhiv
 
 <div align="center">
 
-# Hi, I'm A.J. Pardhiv 
+# Hi, I'm A.J. Pardhiv
 
-### AI & Data Science Student · Google Data Analytics Certified · ML & Data Analytics Builder
+### AI & Data Science Student | Machine Learning & Data Analytics Builder
 
-I build practical AI, machine learning, and data analytics projects using  
-**Python, SQL, Streamlit, scikit-learn, Pandas, Plotly, and Business Intelligence tools.**
+I build practical machine learning, data analytics, and Streamlit-based applications using  
+**Python, SQL, scikit-learn, Pandas, Plotly, Streamlit, and Business Intelligence tools.**
 
-**Curiosity. Code. Intelligence.**
+**Turning data into useful, understandable, and business-ready solutions.**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am **A.J. Pardhiv**, an Artificial Intelligence & Data Science student focused on building practical, recruiter-ready, and business-relevant technology projects.
+I am an **Artificial Intelligence and Data Science student** focused on building practical, well-documented, and recruiter-ready technology projects.
 
-My work mainly revolves around:
+My work mainly focuses on:
 
-- Machine Learning applications
+- Machine learning applications
 - Data analytics and visualization
 - Business intelligence dashboards
-- Streamlit-based AI/Data apps
+- Streamlit-based ML/Data apps
 - Resume screening and candidate ranking systems
 - Support ticket classification and workflow automation
 - Sales forecasting and decision-support dashboards
 
-I enjoy turning raw data and real-world problems into clean, useful, and understandable products.
+I enjoy converting raw datasets and real-world problems into clean, useful, and understandable products.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Languages & Core Skills
 
@@ -78,31 +79,30 @@ I enjoy turning raw data and real-world problems into clean, useful, and underst
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### 1. SmartHire AI — Resume Screening & Candidate Ranking System
 
-An AI-powered applicant screening system that helps recruiters analyze resumes, compare them with job descriptions, rank candidates, and identify skill gaps.
+A resume screening system that compares resumes with job descriptions, extracts skills, ranks candidates, and identifies skill gaps.
 
-**Core Features:**
+**Core Features**
 
 - Resume parsing
 - Skill extraction
 - Job description matching
-- ATS-style scoring
 - Candidate ranking
 - Skill gap analysis
 - Recruiter-friendly dashboard
 
-**Tech Used:** Python, Streamlit, scikit-learn, Pandas, NLP, Plotly
+**Tech Used:** Python, Streamlit, scikit-learn, Pandas, Plotly
 
 ---
 
 ### 2. AI Ticket Desk — Support Ticket Classification Platform
 
-A machine learning system for automatically classifying support tickets, predicting priority, recommending support teams, and improving support workflow efficiency.
+A machine learning application for classifying support tickets, predicting priority, recommending support teams, and generating response drafts.
 
-**Core Features:**
+**Core Features**
 
 - Ticket category classification
 - Priority prediction
@@ -111,15 +111,15 @@ A machine learning system for automatically classifying support tickets, predict
 - Response draft generation
 - Model evaluation dashboard
 
-**Tech Used:** Python, Streamlit, scikit-learn, TF-IDF, LinearSVC, Logistic Regression, Plotly
+**Tech Used:** Python, Streamlit, TF-IDF, LinearSVC, Logistic Regression, Plotly
 
 ---
 
 ### 3. AI Retail Forecasting Platform
 
-A sales and demand forecasting project designed to help businesses understand sales trends, forecast future demand, and make better inventory and planning decisions.
+A sales and demand forecasting project designed to analyze sales trends, forecast future demand, and support better inventory and planning decisions.
 
-**Core Features:**
+**Core Features**
 
 - Sales trend analysis
 - Time-based feature engineering
@@ -128,7 +128,7 @@ A sales and demand forecasting project designed to help businesses understand sa
 - Business-friendly visualizations
 - Interactive dashboard
 
-**Tech Used:** Python, Pandas, scikit-learn, Plotly, Streamlit, Forecasting
+**Tech Used:** Python, Pandas, scikit-learn, Plotly, Streamlit
 
 ---
 
@@ -136,44 +136,41 @@ A sales and demand forecasting project designed to help businesses understand sa
 
 Dashboard-focused projects for KPI tracking, data visualization, and decision support.
 
-**Focus Areas:**
+**Focus Areas**
 
 - Business KPIs
+- Sales insights
 - Data storytelling
 - Dashboard design
-- Insights generation
 - Clean visual reporting
 
 **Tools Used:** Power BI, Tableau, Plotly, Python, SQL
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 I am currently improving my skills in:
 
-- Machine Learning project development
+- Open-source contribution
+- Machine learning project development
 - Streamlit dashboard design
 - Data analytics and business intelligence
-- AI-powered automation tools
-- Resume and candidate screening systems
-- Real-world project documentation
-- Open-source portfolio building
-- StudyStack, a student-focused study community
+- Clean documentation and portfolio building
+- Real-world AI/Data project development
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - Google Data Analytics Professional Certificate
-- Google Data Analytics Specialization
 - Introduction to Generative AI
 - SQL Certification
 - Data Analytics and Business Intelligence learning path
 
 ---
 
-## 💼 What I Bring
+## What I Bring
 
 - Strong foundation in Python, SQL, data analytics, and machine learning
 - Ability to convert business problems into technical solutions
@@ -184,83 +181,34 @@ I am currently improving my skills in:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=itzPardhiv&theme=tokyonight&hide_border=true" 
-  alt="A.J. Pardhiv GitHub Streak" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzPardhiv&theme=github_dark" 
-  alt="A.J. Pardhiv GitHub Profile Summary" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzPardhiv&theme=github_dark" 
-  alt="A.J. Pardhiv Repos Per Language" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzPardhiv&theme=github_dark" 
-  alt="A.J. Pardhiv Most Commit Language" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzPardhiv&theme=github_dark" 
-  alt="A.J. Pardhiv GitHub Stats" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzPardhiv&theme=github_dark&utcOffset=5.5" 
-  alt="A.J. Pardhiv Productive Time" 
-/>
-
-</div>
-
----
-
-## 🏆 Highlights
+## Highlights
 
 - Google Data Analytics Certified
 - Machine Learning Intern at Future Interns
-- Building AI, ML, and data analytics projects
-- Creating recruiter-ready Streamlit and ML applications
-- Focused on clean documentation, dashboards, and real-world project use cases
-- Building StudyStack, a student-focused study community
+- Building ML and data analytics projects
+- Creating recruiter-ready Streamlit applications
+- Focused on clean documentation, dashboards, and real-world use cases
+- Exploring open-source contribution and collaborative development
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/itzPardhiv">
-  <img src="https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/aj-pardhiv-406a40333">
-  <img src="https://img.shields.io/badge/LinkedIn-A.J.%20Pardhiv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building intelligent, data-driven, and user-focused technology solutions.
+## Contact
 
 Open to internships, collaborations, open-source contributions, and real-world AI/Data projects.
+
+<p align="left">
+  <a href="https://github.com/itzPardhiv">
+    <img src="https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building practical, data-driven, and user-focused technology solutions.
 
 **Curiosity. Code. Intelligence.**
 
 </div>
+```
