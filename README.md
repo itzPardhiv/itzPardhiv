@@ -1,255 +1,220 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=itzPardhiv&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
-</p>
+<!--
+Profile README for A.J. Pardhiv
+GitHub: itzPardhiv
+-->
 
-<h1 align="center">A.J. Pardhiv</h1>
+<div align="center">
 
-<h3 align="center">
-  AI & Data Science Student · Machine Learning Intern · Google Certified Data Analyst
-</h3>
+# Hi, I'm A.J. Pardhiv 👋
 
-<p align="center">
-  <b>Python · SQL · Machine Learning · Data Analytics · Business Intelligence · Full-Stack Development</b>
-</p>
+### AI & Data Science Student · Google Data Analytics Certified · ML & Data Analytics Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI%2C+ML+and+Data-Driven+Products;Turning+Data+into+Insights%2C+Dashboards+and+Impact;Focused+on+Real-World+Problem+Solving+and+Execution;Creating+Recruiter-Ready+AI+and+Data+Projects" alt="Typing SVG" />
-</p>
+I build practical AI, machine learning, and data analytics projects using  
+**Python, SQL, Streamlit, scikit-learn, Pandas, Plotly, and Business Intelligence tools.**
 
-<p align="center">
-  <a href="https://github.com/itzPardhiv">
-    <img src="https://img.shields.io/badge/GitHub-itzPardhiv-020617?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333/">
-    <img src="https://img.shields.io/badge/LinkedIn-A.J.%20Pardhiv-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-F59E0B?style=for-the-badge&logo=vercel&logoColor=111827" />
-  </a>
-</p>
+**Curiosity. Code. Intelligence.**
+
+</div>
 
 ---
 
-## Executive Profile
+## 🚀 About Me
 
-I am **Ayyagari Jagannath Pardhiv**, an **AI & Data Science student** and **Machine Learning Intern at Future Interns**, focused on building practical, scalable, and business-relevant technology solutions.
+I am **A.J. Pardhiv**, an Artificial Intelligence & Data Science student focused on building practical, recruiter-ready, and business-relevant technology projects.
 
-My work combines **Machine Learning, Data Analytics, Artificial Intelligence, Business Intelligence, Full-Stack Development, and UI/UX Design**. I focus on building projects that are not only technically functional, but also clean, understandable, recruiter-presentable, and useful in real-world scenarios.
+My work mainly revolves around:
 
-I am a **Google Certified Data Analyst** with hands-on experience in **Python, SQL, machine learning workflows, dashboard development, predictive analytics, data visualization, and AI-powered systems**.
+- Machine Learning applications
+- Data analytics and visualization
+- Business intelligence dashboards
+- Streamlit-based AI/Data apps
+- Resume screening and candidate ranking systems
+- Support ticket classification and workflow automation
+- Sales forecasting and decision-support dashboards
 
----
-
-## Professional Snapshot
-
-<table>
-  <tr>
-    <td><b>Current Role</b></td>
-    <td>Machine Learning Intern @ Future Interns</td>
-  </tr>
-  <tr>
-    <td><b>Education</b></td>
-    <td>B.Tech in Artificial Intelligence & Data Science</td>
-  </tr>
-  <tr>
-    <td><b>GitHub Journey</b></td>
-    <td>Started building actively in 2026 and growing through real-world projects</td>
-  </tr>
-  <tr>
-    <td><b>Core Domain</b></td>
-    <td>Machine Learning, Artificial Intelligence, Data Analytics, Business Intelligence</td>
-  </tr>
-  <tr>
-    <td><b>Development Focus</b></td>
-    <td>Python, SQL, Streamlit, Dashboards, Full-Stack Development, UI/UX</td>
-  </tr>
-  <tr>
-    <td><b>Career Direction</b></td>
-    <td>Building real-world AI and data products that solve meaningful problems</td>
-  </tr>
-</table>
+I enjoy turning raw data and real-world problems into clean, useful, and understandable products.
 
 ---
 
-## What I Bring
+## 🧠 Tech Stack
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">AI & ML</h3>
-      <p align="center">Model building, classification, forecasting, ranking, evaluation, and applied ML workflows.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Data & BI</h3>
-      <p align="center">Data cleaning, SQL analysis, KPI tracking, visualization, dashboards, and business insights.</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Product Thinking</h3>
-      <p align="center">Clean interfaces, practical use cases, user-focused execution, and recruiter-ready project presentation.</p>
-    </td>
-  </tr>
-</table>
+### Languages & Core Skills
 
----
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Technical Arsenal
+### Machine Learning & Data
 
-### Languages & Core Technologies
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### Visualization & BI
 
-### AI, ML & Analytics
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-F59E0B?style=for-the-badge&logo=googleanalytics&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Business%20Intelligence-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
-</p>
+### Development & Tools
 
-### Libraries, BI & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Plotly-111827?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=020617" />
-  <img src="https://img.shields.io/badge/Tableau-020617?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-### Development & Design
-
-<p>
-  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1D4ED8?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## Certifications
+## 🔥 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Professional%20Certificate-2563EB?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Specialization-020617?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Core%20Concepts-F59E0B?style=for-the-badge&logo=openai&logoColor=111827" />
-  <img src="https://img.shields.io/badge/SQL-Structured%20Query%20Language-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Printing-The%203D%20Printing%20Revolution-020617?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
+### 1. SmartHire AI — Resume Screening & Candidate Ranking System
 
-- **Google Data Analytics Professional Certificate**
-- **Google Data Analytics Specialization**
-- **Intro to Generative AI: A Beginner’s Primer on Core Concepts**
-- **The Structured Query Language SQL**
-- **The 3D Printing Revolution**
+An AI-powered applicant screening system that helps recruiters analyze resumes, compare them with job descriptions, rank candidates, and identify skill gaps.
 
----
+**Core Features:**
 
-## Project Portfolio Direction
+- Resume parsing
+- Skill extraction
+- Job description matching
+- ATS-style scoring
+- Candidate ranking
+- Skill gap analysis
+- Recruiter-friendly dashboard
 
-<table>
-  <tr>
-    <td><b>AI-Powered Retail Forecasting Platform</b></td>
-    <td>Sales forecasting, interactive analytics, business insights, trend analysis, and predictive dashboards.</td>
-  </tr>
-  <tr>
-    <td><b>Support Ticket Classification System</b></td>
-    <td>NLP-based ticket categorization, priority prediction, automation, and service workflow intelligence.</td>
-  </tr>
-  <tr>
-    <td><b>Resume Screening & Candidate Ranking System</b></td>
-    <td>Resume parsing, skill extraction, job matching, similarity scoring, ranking, and skill gap analysis.</td>
-  </tr>
-  <tr>
-    <td><b>Business Intelligence Dashboards</b></td>
-    <td>KPI tracking, data visualization, actionable insights, and decision-support reporting.</td>
-  </tr>
-  <tr>
-    <td><b>Full-Stack AI Applications</b></td>
-    <td>Clean, usable, and deployment-ready applications combining frontend, data, and AI functionality.</td>
-  </tr>
-</table>
+**Tech Used:** Python, Streamlit, scikit-learn, Pandas, NLP, Plotly
 
 ---
 
-## Recruiter-Relevant Strengths
+### 2. AI Ticket Desk — Support Ticket Classification Platform
 
-- Strong foundation in **Python, SQL, data analytics, and machine learning**
-- Ability to convert business problems into **technical and analytical solutions**
-- Experience building **end-to-end projects**, not just isolated notebooks
-- Focus on **clean UI, readable structure, documentation, and project presentation**
-- Interest in building **AI/Data products that are practical, scalable, and understandable**
-- Continuously improving through **certifications, internships, hands-on projects, and open-source learning**
+A machine learning system for automatically classifying support tickets, predicting priority, recommending support teams, and improving support workflow efficiency.
 
----
+**Core Features:**
 
-## GitHub Intelligence
+- Ticket category classification
+- Priority prediction
+- SLA guidance
+- Support team recommendation
+- Response draft generation
+- Model evaluation dashboard
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzPardhiv&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzPardhiv&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzPardhiv&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzPardhiv&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzPardhiv&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itzPardhiv&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <i>GitHub activity updates automatically as I publish projects, commit code, and contribute to repositories.</i>
-</p>
+**Tech Used:** Python, Streamlit, scikit-learn, TF-IDF, LinearSVC, Logistic Regression, Plotly
 
 ---
 
-## Recognition Board
+### 3. AI Retail Forecasting Platform
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzPardhiv&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+A sales and demand forecasting project designed to help businesses understand sales trends, forecast future demand, and make better inventory and planning decisions.
 
----
+**Core Features:**
 
-## Connect With Me
+- Sales trend analysis
+- Time-based feature engineering
+- Forecasting models
+- Error analysis
+- Business-friendly visualizations
+- Interactive dashboard
 
-<p align="center">
-  <a href="https://github.com/itzPardhiv">
-    <img src="https://img.shields.io/badge/GitHub-itzPardhiv-020617?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333/">
-    <img src="https://img.shields.io/badge/LinkedIn-A.J.%20Pardhiv-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-F59E0B?style=for-the-badge&logo=vercel&logoColor=111827" />
-  </a>
-</p>
+**Tech Used:** Python, Pandas, scikit-learn, Plotly, Streamlit, Forecasting
 
 ---
 
-<p align="center">
-  <b>Building intelligent, data-driven, and user-focused technology solutions.</b>
-</p>
+### 4. Business Intelligence Dashboards
 
-<p align="center">
-  <i>Open to internships, collaborations, open-source contributions, and real-world AI/Data projects.</i>
-</p>
+Dashboard-focused projects for KPI tracking, data visualization, and decision support.
+
+**Focus Areas:**
+
+- Business KPIs
+- Data storytelling
+- Dashboard design
+- Insights generation
+- Clean visual reporting
+
+**Tools Used:** Power BI, Tableau, Plotly, Python, SQL
+
+---
+
+## 📌 Current Focus
+
+I am currently improving my skills in:
+
+- Machine Learning project development
+- Streamlit dashboard design
+- Data analytics and business intelligence
+- AI-powered automation tools
+- Resume and candidate screening systems
+- Real-world project documentation
+- Open-source portfolio building
+
+---
+
+## 🎓 Certifications
+
+- Google Data Analytics Professional Certificate
+- Google Data Analytics Specialization
+- Introduction to Generative AI
+- SQL Certification
+- Data Analytics and Business Intelligence learning path
+
+---
+
+## 💼 What I Bring
+
+- Strong foundation in Python, SQL, data analytics, and machine learning
+- Ability to convert business problems into technical solutions
+- Experience building end-to-end ML and data projects
+- Focus on clean UI, readable code, and strong documentation
+- Interest in building practical AI/Data products
+- Continuous learning through certifications, internships, and projects
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![A.J. Pardhiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzPardhiv&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itzPardhiv&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzPardhiv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itzPardhiv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-itzPardhiv-181717?style=for-the-badge&logo=github)](https://github.com/itzPardhiv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A.J.%20Pardhiv-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aj-pardhiv-406a40333)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent, data-driven, and user-focused technology solutions.
+
+Open to internships, collaborations, open-source contributions, and real-world AI/Data projects.
+
+**Curiosity. Code. Intelligence.**
+
+</div>
