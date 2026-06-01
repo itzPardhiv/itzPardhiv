@@ -7,7 +7,7 @@ Email: itzpardhiv@gmail.com
 
 <div align="center">
 
-# Hi, I'm A.J. Pardhiv
+# Hi, I'm A.J.Pardhiv
 
 ### AI & Data Science Student | Machine Learning & Data Analytics Builder | Open Source Contributor
 
