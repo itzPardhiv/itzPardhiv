@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333">LinkedIn</a> •
   <a href="https://your-portfolio.example">Portfolio</a> •
-  <a href="https://x.com/your-handle">X</a>
 </p>
 
 <p align="center">
@@ -73,7 +72,4 @@ I focus on building practical ML and analytics systems that solve structured bus
 
 - GitHub: [itzPardhiv](https://github.com/itzPardhiv)
 - LinkedIn: [A.J. Pardhiv](https://www.linkedin.com/in/aj-pardhiv-406a40333)
-- Portfolio: [Add your portfolio](https://your-portfolio.example)
-- X: [Add your X profile](https://x.com/your-handle)
-
 > Build useful systems. Explain them clearly. Ship them well.
