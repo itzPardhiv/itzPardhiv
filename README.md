@@ -1,4 +1,4 @@
-# Hi, I'm A.J. Pardhiv 👋
+# Hi, I'm A.J. Pardhiv 
 
 **Applied ML Builder • Data Science Student • Product Thinker**
 
