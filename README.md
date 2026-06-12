@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333">LinkedIn</a> •
-  <a href="https://your-portfolio.example">Portfolio</a> •
+  <a href="https://your-portfolio.example">Portfolio</a> 
 </p>
 
 <p align="center">
