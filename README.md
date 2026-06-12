@@ -1,68 +1,79 @@
 <h1 align="center">Hi, I'm A.J. Pardhiv 👋</h1>
 
 <p align="center">
-  <strong>AI & Data Science Student • Machine Learning Builder • Data Analytics Developer</strong>
+  <strong>AI & Data Science Student • Applied ML Builder • Analytics Product Thinker</strong>
 </p>
 
 <p align="center">
-  I build practical machine learning, NLP, and data analytics products that turn real-world workflows into clear, usable tools.  
-  My work combines Python-first ML systems, dashboard-driven product thinking, and polished frontend execution to ship projects that are both technically strong and easy to understand.
+  I build explainable machine learning and analytics products that turn messy workflows into clear decision systems.
+  My work combines Python-first ML, Streamlit dashboards, and polished product execution so ideas feel usable, auditable, and presentation-ready.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-informational?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard%20Apps-informational?style=for-the-badge&logo=streamlit" />
-  <img src="https://img.shields.io/badge/scikit--learn-Applied%20ML-informational?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/React-Frontend-informational?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/aj-pardhiv-406a40333">LinkedIn</a> •
+  <a href="https://your-portfolio.example">Portfolio</a> •
+  <a href="https://x.com/your-handle">X</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Applied%20ML-informational" alt="Python / Applied ML" />
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard%20Apps-informational" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML%20Workflows-informational" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/React-Frontend%20Execution-informational" alt="React" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-Workflow%20Learning-informational" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Certified-informational" alt="Google Data Analytics Certified" />
 </p>
 
 ## What I Do
 
-- Build applied ML products for **resume screening**, **support-ticket intelligence**, and **retail forecasting**
-- Turn business problems into **explainable dashboards and decision-support tools**
-- Design polished frontend experiences with **React, Vite, Tailwind CSS, HTML, CSS, and JavaScript**
-- Focus on projects that are not just technically correct, but also **clear, usable, and presentation-ready**
+I focus on building practical ML and analytics systems that solve structured business problems, not just isolated model demos.
 
-## Current Focus
+- Build explainable AI products for resume screening, support-ticket intelligence, and forecasting
+- Turn business problems into dashboards, ranking systems, and decision-support workflows
+- Pair machine-learning logic with clear UI using Streamlit, React, Vite, and Tailwind CSS
+- Constantly improve project packaging, documentation quality, and recruiter-facing presentation
 
-- Explainable AI and ATS-style candidate scoring
-- NLP-powered workflow automation
+### Current Focus
+
+- Explainable ATS-style candidate scoring
+- NLP-assisted workflow automation
 - Forecasting and analytics dashboards
-- Clean documentation and recruiter-friendly project packaging
-- Open-source growth through practical, well-structured builds
+- GitHub Copilot workflow customization
+- Cleaner, more production-ready repository presentation
 
-## Toolbox / Ecosystem
+## Toolbox
 
-| Area | Technologies |
+| Category | Stack |
 |---|---|
-| **Languages** | Python, SQL, JavaScript, HTML, CSS |
-| **ML / Data** | scikit-learn, Pandas, Plotly, NLP, TF-IDF, LinearSVC, Forecasting, Prophet |
-| **App & Dashboard Layer** | Streamlit, Interactive Analytics, Data Visualization |
-| **Frontend** | React, Vite, Tailwind CSS, Responsive UI |
-| **Developer Workflow** | Git, GitHub, Jupyter Notebook, Modular Project Structure |
+| Languages | Python, SQL, JavaScript, HTML, CSS |
+| ML & Analytics | scikit-learn, Pandas, Plotly, Prophet, TF-IDF, LinearSVC, data visualization |
+| Frameworks | Streamlit, React, Vite, Tailwind CSS |
+| Developer Tools | Git, GitHub, Jupyter Notebook, GitHub Copilot, modular repo structure |
+| Databases | SQL foundations |
+| Cloud / Deployment | GitHub Actions, deployment workflows, public cloud deployment as an active growth area |
 
-## Featured Repositories / Achievements
+## Featured Work
 
 | Project | What it shows | Stack |
 |---|---|---|
-| **SmartHire AI** | Explainable ATS-style resume screening, skill-gap analysis, candidate ranking, recruiter-friendly analytics | Python, Streamlit, scikit-learn, NLP |
-| **Ticket Desk** | Support-ticket classification, priority prediction, routing guidance, SLA-aware triage, response drafting | Python, Streamlit, NLP, Plotly |
-| **Retail Forecasting Intelligence Platform** | Sales forecasting, KPI tracking, regional/category insights, decision-support visualizations | Python, Streamlit, Prophet, Plotly |
-| **GameGrid** | Interactive product thinking, game logic, UI polish, state-driven React experience | React, Vite, Tailwind CSS |
-| **TaskVault** | Practical task management, scheduling, filtering, edit flows, local persistence | React, Vite, Tailwind CSS |
-| **GitForge** | Developer education and frontend execution through a GitHub learning landing page | HTML, CSS, JavaScript |
+| [SmartHire AI](https://github.com/itzPardhiv/FUTURE_ML_03) | Explainable ATS-style resume screening, candidate ranking, skill-gap analysis, and recruiter-friendly scoring | Python, Streamlit, scikit-learn, NLP |
+| [Ticket Desk](https://github.com/itzPardhiv/FUTURE_ML_02) | NLP-powered support-ticket triage with classification, priority prediction, routing guidance, and response drafting | Python, Streamlit, Pandas, Plotly, NLP |
+| [Retail Forecasting Intelligence Platform](https://github.com/itzPardhiv/FUTURE_ML_01) | Time-series forecasting, KPI tracking, and business-facing analytics for retail decision support | Python, Streamlit, Prophet, Plotly |
+| [TaskVault](https://github.com/itzPardhiv/SCT_WD_4) | Practical task management with filters, scheduling, local persistence, and polished React UX | React, Vite, JavaScript, Tailwind CSS |
+| [GameGrid](https://github.com/itzPardhiv/SCT_WD_3) | State-driven gameplay, UI polish, and interactive product thinking through a modern Tic-Tac-Toe app | React, Vite, JavaScript, Tailwind CSS |
 
-### Highlights
+## Highlights
 
-- AI & Data Science student building real-world ML and analytics products
-- Machine Learning intern experience
-- Google Data Analytics certified
-- Strong interest in explainable AI, practical dashboards, and usable product design
+- AI & Data Science student focused on real-world ML application design
+- Builder of explainable, recruiter-friendly analytics products
+- Strong interest in NLP, forecasting, dashboard UX, and practical AI systems
+- Growing fluency in modern GitHub and Copilot workflows
 
 ## Connect with Me
 
 - GitHub: [itzPardhiv](https://github.com/itzPardhiv)
 - LinkedIn: [A.J. Pardhiv](https://www.linkedin.com/in/aj-pardhiv-406a40333)
+- Portfolio: [Add your portfolio](https://your-portfolio.example)
+- X: [Add your X profile](https://x.com/your-handle)
 
-> Building practical, data-driven, and user-focused technology solutions.
+> Build useful systems. Explain them clearly. Ship them well.
